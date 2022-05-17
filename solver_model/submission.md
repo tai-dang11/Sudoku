@@ -76,4 +76,4 @@ Tools for this project
 - Matplotlib
 
 ### Saved model
-I saved the trained model on my [**github**](https://github.com/tai-dang11/Sudoku)
+I saved the trained model on my [**github**](https://github.com/tai-dang11/solver_sudoku.git)
